@@ -1,0 +1,10 @@
+chainer==6.3.0
+cupy==10.2.0
+scikit-image==0.15.0
+google-cloud-storage==1.18.1
+flask
+torchvision
+gunicorn==19.3.0
+flask-cors
+flask-healthz
+google-cloud-logging

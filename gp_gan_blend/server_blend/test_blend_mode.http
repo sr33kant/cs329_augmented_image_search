@@ -1,0 +1,17 @@
+GET https://us-east4-aiplatform.googleapis.com/v1/projects/nth-honor-339920/locations/us-east4/endpoints/5633369815142891520:blend
+Authorization: Bearer ya29.A0ARrdaM_VeDDrtPj-FO7eIdn3HUNlTSxKv3SOY_-B2vTLvRWluCam_ohb9Fn7JXiccdGeLAv7WpI22dXzjw7_dTsJaxdPvm51KIq5sSOEF8cbbJmtI4a4oBcz8Wf-xUi9c5zUWXIEgaBPuF0FOcTv0bqfVBHbfDO7F26ZPw
+content-type : application/json
+
+{
+    "instances":[
+    {
+        "image_src":'black-bean-bags',
+        "image_dst":'brown-bean-bags',
+        "blend_id":'hello_blend'
+    }
+
+
+]
+
+
+}
